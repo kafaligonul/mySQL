@@ -1,0 +1,4 @@
+1- SELECT country FROM country WHERE country_name LIKE 'A%a';
+2- SELECT country FROM country WHERE country_name LIKE '%____n';
+3- SELECT title FROM FROM film WHERE film_name ILIKE '%t%t%t%t%';
+4- SELECT * FROM film WHERE title LIKE 'C%' AND length>90 AND rental_rate=2.99;
